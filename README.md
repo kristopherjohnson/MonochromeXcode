@@ -1,0 +1,1 @@
+To use these color schemes with Xcode, copy them to your `~/Library/Developer/Xcode/UserData/FontAndColorThemes` directory, and then select them from the *Xcode > Preferences > Fonts & Colors* window.
